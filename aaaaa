@@ -1,17 +1,1 @@
-Create table Pai(
-cod_pai int (11),
-nome char (30),
-telefone int (30),
-primary key (cod_pai));
 
-Create table Mãe(
-cod_mae
-nt (11),
-nome char (30),
-telefone int (30),
-primary key (cod_pai));
-
-Create table FIlho(
-cod_filho int (11),
-nome char (30),
-primary key (cod_filho));
